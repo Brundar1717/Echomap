@@ -7,7 +7,9 @@ EchoMap is a low-cost, offline indoor navigation system designed to assist visua
 The system detects obstacles in the user's surroundings, creates an occupancy-grid representation of an indoor environment, stores landmarks, and provides destination-based navigation using A* path planning and offline text-to-speech.
 
 The system does not require internet connectivity, cameras, or a preloaded floor plan.
+## 🌐 Live Dashboard
 
+[View Live Dashboard](https://echomap-with-dashboard.vercel.app/)
 ---
 
 ## Project Overview
